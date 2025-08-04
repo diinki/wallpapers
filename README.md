@@ -1,11 +1,20 @@
-# My Wallpapers </>
+<div align="center">
+
+# 【 diinki's wallpapers 】
+
+</div>
+
+<div align="center">
+
+<a href="https://discord.gg/gleep">![badge](https://img.shields.io/badge/discord-262622?style=for-the-badge&logo=discord&logoColor=262622&logoSize=auto&color=e2e2d3) </a>
+<a href="https://ko-fi.com/diinki">![badge](https://img.shields.io/badge/tip-262622?style=for-the-badge&logo=kofi&logoColor=262622&logoSize=auto&color=e2e2d3) </a>
+<a href="https://youtube.com/@diinkikot">![badge](https://img.shields.io/badge/youtube_channel-262622?style=for-the-badge&logo=youtube&logoColor=262622&logoSize=auto&color=e2e2d3) </a>
 
 These are the wallpapers that I've made & published, in case any of you want to use them!
+
 The date is by upload and not by date of creation.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E81FQW4S)
-
-If you enjoy the content & art I create, feel entirely free to give a tip on kofi!
+</div>
 
 ---
 
