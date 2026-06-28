@@ -18,6 +18,16 @@ The date is by upload and not by date of creation.
 
 ---
 
+<h3 align="center"> Celestial Antiquity ↓</h3>
+
+[![carnation_collage](june2026/carnation_collage.png)](june2026/carnation_collage.png)
+
+[![the_blackboard](june2026/oc_the_blackboard.png)](june2026/oc_the_blackboard.png)
+
+[![georges_riom_collage](june2026/georges_riom_collage.png)](june2026/georges_riom_collage.png)
+
+
+
 <h3 align="center"> Secret Kitty Club ↓</h3>
 
 [![SKC_pink](may2025/STRAY_KITTY_CLUB-pink.png)](may2025/STRAY_KITTY_CLUB-pink.png)
